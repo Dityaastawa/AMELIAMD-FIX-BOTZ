@@ -8,22 +8,22 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let Poto = fs.readFileSync('./media/menu.jpg')
 let tek = `▷ ᴅᴏɴᴀsɪ ʙɪsᴀ ᴍᴇʟᴀʟᴜɪ ◁
     「 Donasi • Pulsa 」
-▪ *Telkomsel:* [0822 1472 9677]
-▪ *Axis:* [0838 6372 7401]
+▪ *Indosat:* [085792429140]
+▪ *XL* [081779996909]
 
     「 Donasi • Non Pulsa 」
-▪ *Dana:* [0838 6373 7401]
-▫ *Gopay:* [-]
-▪ *Ovo:* [0838 6372 7401]
+▪ *Dana:* [085792429140]
+▫ *Gopay:* [085792429140]
+▪ *Ovo:* [085792429140]
 
 Kalau Mau Pake Qr Bisa ke contact Owner kak☺️
-wa.me/6283863727401
+wa.me/6285237596750
 
 *sᴇᴍᴏɢᴀ ᴀɴᴅᴀ ᴅɪ ʙᴇʀɪᴋᴀɴ ᴋᴇᴍᴜᴅᴀʜᴀɴ ʀᴇᴢᴇᴋɪ ᴅᴀɴ ᴅɪ ʟɪᴘᴀᴛ ɢᴀɴᴅᴀᴋᴀɴ ʀᴇᴢᴇᴋɪ ᴀɴᴅᴀ*`
 
 let cap = `Donasi Nya Kak ${tag} ☺️`
 conn.send3ButtonImg(m.chat, Poto, cap, tek, 'Owner', '.owner', 'Sewa Bot', '.sewa', `\nOwner Bot Ganteng Banget`, '.owner', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/l4c1f2r',
+    mediaUrl: 'https://www.instagram.com/q.c.ditya',
     mediaType: 2, 
     description: sgc,
     title: 'ᴅ ᴏ ɴ ᴀ ᴛ ᴇ',
